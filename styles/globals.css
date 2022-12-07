@@ -13,13 +13,13 @@
 .gradient-01 {
   background-image: linear-gradient(
     270deg,
-    hsl(295deg 76% 51%) 0%,
-    hsl(284deg 70% 73%) 26%,
-    hsl(257deg 70% 86%) 39%,
-    hsl(202deg 92% 90%) 50%,
-    hsl(215deg 77% 81%) 61%,
-    hsl(221deg 73% 70%) 74%,
-    hsl(220deg 76% 51%) 100%
+    #b27b1e 0%,
+    #d19a35 26%,
+    #e5a93a 39%,
+    #e5feff 50%,
+    #515c66 61%,
+    #40aecb 74%,
+    #0a6eb6 100%
   );
   filter: blur(125px);
 }
@@ -28,8 +28,8 @@
   background: linear-gradient(
     97.86deg,
     #0e0a10 0%,
-    #0099a2 53.65%,
-    #003d70 100%
+    #40aecb 53.65%,
+    #0a6eb6 100%
   );
 }
 
@@ -40,7 +40,7 @@
   top: 0px;
   right: 0px;
 
-  background: #7aebfb;
+  background: #e5a93a;
   filter: blur(190px);
 }
 
@@ -91,7 +91,7 @@
   left: 0px;
   top: 0px;
 
-  background: #8d39a3;
+  background: #e5a93a;
   filter: blur(175px);
 }
 
@@ -102,6 +102,6 @@
   left: 37%;
   bottom: 0;
 
-  background: #65c4fa;
+  background: #40aecb;
   filter: blur(150px);
 }
