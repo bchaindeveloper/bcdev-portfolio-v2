@@ -3,9 +3,9 @@ import styles from '../styles';
 const Tech = ({ number, text }) => (
   <div className={`${styles.flexCenter} flex-row`}>
     <div
-      className={`${styles.flexCenter} w-[70px] h-[70px] rounded-[24px] bg-[#323F5D]`}
+      className={`${styles.flexCenter} w-[70px] h-[70px] rounded-[24px] bg-[#c0c2c2]`}
     >
-      <p className="font-bold text-[20px] text-white">
+      <p className="font-bold text-[20px] text-black">
         {number}
       </p>
     </div>
