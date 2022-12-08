@@ -13,13 +13,13 @@
 .gradient-01 {
   background-image: linear-gradient(
     270deg,
-    #b27b1e 0%,
-    #d19a35 26%,
-    #e5a93a 39%,
-    #e5feff 50%,
-    #515c66 61%,
-    #40aecb 74%,
-    #0a6eb6 100%
+    #84754c 0%,
+    #6f5d31 26%,
+    #fef6bb 39%,
+    #e1e5ce 50%,
+    #586160 61%,
+    #c0c2c2 74%,
+    #586062 100%
   );
   filter: blur(125px);
 }
@@ -28,8 +28,8 @@
   background: linear-gradient(
     97.86deg,
     #0e0a10 0%,
-    #40aecb 53.65%,
-    #0a6eb6 100%
+    #c0c2c2 53.65%,
+    #586062 100%
   );
 }
 
@@ -40,7 +40,7 @@
   top: 0px;
   right: 0px;
 
-  background: #e5a93a;
+  background: #c0c2c2;
   filter: blur(190px);
 }
 
@@ -59,7 +59,7 @@
   left: 20%;
   top: 5%;
 
-  background: rgba(149, 66, 232, 0.35);
+  background: #586160;
   filter: blur(175px);
   transform: rotate(-114.2deg);
 }
@@ -71,7 +71,7 @@
   left: 30%;
   top: 10%;
 
-  background: rgba(45, 72, 152, 0.75);
+  background: #586160;
   filter: blur(200px);
   transform: rotate(-53.13deg);
 }
@@ -91,7 +91,7 @@
   left: 0px;
   top: 0px;
 
-  background: #e5a93a;
+  background: #586160;
   filter: blur(175px);
 }
 
@@ -102,6 +102,6 @@
   left: 37%;
   bottom: 0;
 
-  background: #40aecb;
+  background: #586160;
   filter: blur(150px);
 }

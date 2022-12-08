@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 import styles from '../styles';
 import { startingFeatures } from '../constants';
-import { StartSteps, TitleText, TypingText } from '../components';
+import { Tech, TitleText, TypingText } from '../components';
 import { staggerContainer, fadeIn, Ether } from '../utils/motion';
 
 const Technologies = () => (
@@ -34,7 +34,7 @@ const Technologies = () => (
         <TitleText title={<>Building The Next Gen System</>} />
         <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px]">
           {startingFeatures.map((feature, index) => (
-            <StartSteps
+            <Tech
               key={feature}
               number={`${index < 10 ? '0' : ''} ${index + 1}`}
               text={feature}

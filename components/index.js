@@ -1,18 +1,18 @@
 import Navbar from './Navbar';
 import { TypingText, TitleText } from './CustomTexts';
-import ExploreCard from './ExploreCard';
-import StartSteps from './StartSteps';
-import NewFeatures from './NewFeatures';
-import InsightCard from './InsightCard';
+import Exp from './Exp';
+import Tech from './Tech';
+import Projects from './Projects';
+import Acp from './Acp';
 import Footer from './Footer';
 
 export {
   Navbar,
   TitleText,
   TypingText,
-  StartSteps,
-  NewFeatures,
-  ExploreCard,
-  InsightCard,
+  Tech,
+  Projects,
+  Exp,
+  Acp,
   Footer,
 };

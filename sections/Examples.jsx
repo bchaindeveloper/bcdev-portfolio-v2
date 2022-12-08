@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 import styles from '../styles';
 import { newFeatures } from '../constants';
-import { NewFeatures, TitleText, TypingText } from '../components';
+import { Projects, TitleText, TypingText } from '../components';
 import { Ether, staggerContainer, fadeIn } from '../utils/motion';
 
 const Examples = () => (
@@ -24,7 +24,7 @@ const Examples = () => (
         <TitleText title={<>Projects</>} />
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
-            <NewFeatures key={feature.title} {...feature} />
+            <Projects key={feature.title} {...feature} />
           ))}
         </div>
       </motion.div>
