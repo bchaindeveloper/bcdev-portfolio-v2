@@ -22,7 +22,7 @@ const Experience = () => {
       >
         <TypingText title="| Experience" textStyles="text-center" />
         <TitleText
-          title={<>Timeline Of My Experience</>}
+          title={<>Timeline</>}
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">

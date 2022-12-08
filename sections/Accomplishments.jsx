@@ -17,7 +17,7 @@ const Accomplishments = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <TypingText title="| Education" textStyles="text-center" />
-      <TitleText title={<>My Accomplishments</>} textStyles="text-center" />
+      <TitleText title={<>Accomplishments</>} textStyles="text-center" />
       <div className="mt-[50px] flex flex-col gap-[30px]">
         {insights.map((item, index) => (
           <Acp key={`insight-${index}`} {...item} index={index + 1} />

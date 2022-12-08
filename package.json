@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "eslint-config-next": "13.0.3",
+    "ethers": "^5.7.2",
     "framer-motion": "^7.6.7",
     "next": "13.0.3",
     "react": "18.2.0",
