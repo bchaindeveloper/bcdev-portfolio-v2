@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@3rdweb/hooks": "^1.9.2",
     "eslint-config-next": "13.0.3",
     "ethers": "^5.7.2",
     "framer-motion": "^7.6.7",

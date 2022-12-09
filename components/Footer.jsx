@@ -36,14 +36,14 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
+          <a href='https://bchaindeveloper.com/' alt="Portfolio">
           <h4 className="font-extrabold text-[24px] text-white">
             BChainDev
           </h4>
+          </a>
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright © 2021 - 2022 BChainDev. All rights reserved.
           </p>
-
-          <br />
         </div>
       </div>
     </div>

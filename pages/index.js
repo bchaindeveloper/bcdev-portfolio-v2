@@ -6,11 +6,9 @@ import Developer from '../sections/Developer';
 import Technologies from '../sections/Technologies';
 import Examples from '../sections/Examples';
 
-
 const Home = () => (
   <div className='bg-primary-black overflow-hidden'>
     <Navbar />
-    <button className='text-white '>Connect Wallet</button>
     <Hero />
     <div className='relative'>
       <About />

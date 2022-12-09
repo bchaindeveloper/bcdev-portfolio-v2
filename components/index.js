@@ -5,6 +5,8 @@ import Tech from './Tech';
 import Projects from './Projects';
 import Acp from './Acp';
 import Footer from './Footer';
+import Metamask from './Metamask';
+import Github from './USA';
 
 export {
   Navbar,
@@ -15,4 +17,6 @@ export {
   Exp,
   Acp,
   Footer,
+  Metamask,
+  Github,
 };

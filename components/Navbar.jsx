@@ -1,9 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-
+import USA from './USA';
 import styles from '../styles';
 import { navVariants } from '../utils/motion';
+import Metamask from './Metamask';
 
 const Navbar = () => (
   <motion.nav
@@ -16,19 +17,11 @@ const Navbar = () => (
     <div
       className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}
     >
-      <img
-        src="/search.svg"
-        alt="search"
-        className="w-[24px] h-[24px] object-contain"
-      />
+      <USA />
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         BChainDev
       </h2>
-      <img
-        src="/menu.svg"
-        alt="menu"
-        className="w-[24px] h-[24px] object-contain"
-      />
+      <Metamask />
     </div>
   </motion.nav>
 );
