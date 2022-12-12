@@ -11,7 +11,6 @@ const USA = () => {
         className="w-[24px] h-[24px] object-contain"
       />
       <span className="font-normal text-[16px] text-black">
-        Made In The USA
       </span>
     </button>
   </div>
