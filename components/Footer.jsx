@@ -42,7 +42,7 @@ const Footer = () => (
           </h4>
           </a>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 BChainDev. All rights reserved.
+            Copyright © 2022 - 2023 BChainDev. All rights reserved.
           </p>
         </div>
       </div>
