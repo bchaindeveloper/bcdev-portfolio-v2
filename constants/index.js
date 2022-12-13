@@ -36,15 +36,17 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/Ethereum.png',
-    title: 'Hardhat Fund Me',
+    title: 'Hardhat Lottery',
     subtitle:
-        'A smart contract built on the Ethereum blockchain that allows other wallets to fund the contract.',
+        'A smart contract built on the Ethereum blockchain that allows wallets to enter funds into the lottery. The contract then randomly picks a winner in a decentralized manner, using Chainlink VRF. The front end is build with Next.JS allowing users to easily interact with the lottery ',
+    link: 'https://web3sire.com/',
   },
   {
     imgUrl: '/Ethereum.png',
-    title: 'Hardhat Simple Storage',
+    title: 'Hardhat Fund Me',
     subtitle:
-        'A smart contract build on the Ethereum blockchain that allows the contract to store a variable.',
+        'A smart contract built on the Ethereum blockchain that allows wallets to collectively fund the contract. Then, the owner of the contract has the ability to withdraw the funds.',
+    link: 'https://github.com/bchaindeveloper/hardhat-fund-me',
   },
 ];
 
