@@ -36,17 +36,17 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/Ethereum.png',
-    title: 'Hardhat Lottery',
+    title: 'Ether Crowdfund',
     subtitle:
-        'A smart contract built on the Ethereum blockchain that allows wallets to enter funds into the lottery. The contract then randomly picks a winner in a decentralized manner, using Chainlink VRF. The front end is build with Next.JS allowing users to easily interact with the lottery ',
+        'A crowdfunding smart contract with a Vite frontend. This applicatoin allows users to create their own campaign as well as fund others. Finding is done by connecting your MetaMask wallet and confiming your transaction',
     link: 'https://web3sire.com/',
   },
   {
-    imgUrl: '/Ethereum.png',
-    title: 'Hardhat Fund Me',
+    imgUrl: '/react-seeklogo.com.svg',
+    title: 'My Porfolio',
     subtitle:
-        'A smart contract built on the Ethereum blockchain that allows wallets to collectively fund the contract. Then, the owner of the contract has the ability to withdraw the funds.',
-    link: 'https://github.com/bchaindeveloper/hardhat-fund-me',
+        'I built two seperate porfolio websites utilizing different styles. My bchaindeveloper.com website uses Next.JS and has more text than this one.',
+    link: 'https://bchaindeveloper.com/',
   },
 ];
 
