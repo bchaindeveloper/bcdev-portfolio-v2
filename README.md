@@ -3,7 +3,7 @@ This is my porfolio website using Next.js. Here you can see a comprehensive look
 https://bchaindev.com/
 
 ## Screenshots
-![Screenshot](public/Screenshot.png)
+![Screenshot](public/Screenshott.png)
 
 ## Built with:
 
