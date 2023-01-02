@@ -2,7 +2,7 @@
 This is my porfolio website using Next.js. Here you can see a comprehensive look at my achivements and technical ablities as a developer. Feel free to contact me with any questions or career oppertunitys. Thank you for taking the time to view my website and code!
 https://bchaindev.com/
 
-## Screenshots
+## Screenshot:
 ![Screenshot](public/Screenshott.png)
 
 ## Built with:
@@ -28,6 +28,6 @@ Feel free to a fork the repo or notify me of any issues that are present
 JavascriptMastery's tutorial helped me create this project:
 https://www.youtube.com/watch?v=ugCN_gynFYw&t=13s
 
-License:
+## License:
 
 MIT © BChainDev
