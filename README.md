@@ -3,9 +3,10 @@ This is my porfolio website using Next.js. Here you can see a comprehensive look
 https://bchaindev.com/
 
 ## Screenshots
-
+![Screenshot](public/Screenshot.png)
 
 ## Built with:
+
 NextJS
 Ethers
 
@@ -17,11 +18,9 @@ npm run dev
 # or
 yarn dev
 ```
-
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Contribute
+## Contribute:
 Feel free to a fork the repo or notify me of any issues that are present
 
 ## Credit:
@@ -29,5 +28,6 @@ Feel free to a fork the repo or notify me of any issues that are present
 JavascriptMastery's tutorial helped me create this project:
 https://www.youtube.com/watch?v=ugCN_gynFYw&t=13s
 
-License
+License:
+
 MIT © BChainDev
