@@ -32,9 +32,9 @@ const Mission = () => (
         <img src="./Projects.jpg" alt="USA" className="w-full h-full object-cover" />
         <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
-        className="absolute mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
+        className="absolute mt-[8px] font-normal sm:text-[32px] text-[20px] text-secondary-white"
       >
-        <span className="font-extrabold">| My mission is to help build technology that the world needs now more than ever. </span>
+        <p className="font-extrabold">| My mission is to help build revolutionary technology. </p>
 
       </motion.p>
       </motion.div>

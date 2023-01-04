@@ -29,7 +29,7 @@ const Developer = () => (
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “I am very passionate about Blockchain & Web3 applications and excited to have found my place in this amazing industry”
+          “I am very passionate about Blockchain & Web3 applications and excited for the future of this amazing technology”
         </p>
       </motion.div>
 

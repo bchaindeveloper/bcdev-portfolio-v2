@@ -29,7 +29,7 @@ export const exploreWorlds = [
 export const startingFeatures = [
   'Smart Contracts Built With Solidity, Web3.JS & Web3.PY',
   'Front End Applications Built With React Frameworks',
-  'Blockhain Tools Like Chainlink, IPFS, Wallet Intergration and much more',
+  'Blockhain Tools Like Chainlink, Alchemy, OpenZeppelin, Wallet Intergration and much more',
 ];
 
 
@@ -38,14 +38,14 @@ export const newFeatures = [
     imgUrl: '/Ethereum.png',
     title: 'Ether Crowdfund',
     subtitle:
-        'A crowdfunding smart contract with a Vite frontend. This applicatoin allows users to create their own campaign as well as fund others. Finding is done by connecting your MetaMask wallet and confiming your transaction',
+        'A crowdfunding smart contract with a Vite frontend. This applicatoin allows users to create their own campaign as well as fund others. Funding is done by connecting your MetaMask wallet.',
     link: 'https://web3sire.com/',
   },
   {
     imgUrl: '/react-seeklogo.com.svg',
     title: 'My Porfolio',
     subtitle:
-        'I built two seperate porfolio websites utilizing different styles. My bchaindeveloper.com website uses Next.JS and has more text than this one.',
+        'I built two seperate porfolio websites utilizing different styles. My bchaindeveloper.com website uses Next.JS and has a different design.',
     link: 'https://bchaindeveloper.com/',
   },
 ];
@@ -55,7 +55,7 @@ export const insights = [
     imgUrl: '/FCC.jpg',
     title: 'Solidity, Blockchain, FullStack Web3 JS Tutorial',
     subtitle:
-        'This course covered the core concepts related to blockchain and smart contracts. I used Hardhat, Solidity, EthersJS and Web3Js to create an array of projects. ',
+        'This course covered the core concepts related to blockchain and smart contracts. I used Hardhat, Solidity, EthersJS and Web3JS to create an array of projects. ',
     link: 'https://www.youtube.com/watch?v=gyMwXuJrbJQ'    
   },
   {
