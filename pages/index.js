@@ -1,7 +1,6 @@
 import { Footer, Navbar } from '../components';
 import { About, Experience, Hero } from '../sections';
 import Accomplishments from '../sections/Accomplishments';
-import Mission from '../sections/Mission';
 import Developer from '../sections/Developer';
 import Technologies from '../sections/Technologies';
 import Examples from '../sections/Examples';
@@ -22,8 +21,6 @@ const Home = () => (
       <Experience />
     <div className='relative'>
       <Accomplishments />
-      <div className='gradient-04 z-0'/>
-      <Mission />
       <br />
       <Developer />
     </div>
