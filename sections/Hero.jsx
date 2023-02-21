@@ -16,7 +16,7 @@ const Hero = () => (
     >
       <div className="flex justify-center items-center flex-col relative z-10">
         <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
-        Web3 Architect and Brick Layer
+        Blockchain Developer
         </motion.h1>
         <motion.div
           variants={textVariant(1.2)}
@@ -32,7 +32,7 @@ const Hero = () => (
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
 
         <img
-          src="./cover1.jpg"
+          src="./earthnetwork.jpg"
           alt="cover"
           className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
         />
