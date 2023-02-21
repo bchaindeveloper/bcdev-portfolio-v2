@@ -16,7 +16,7 @@ const Exp = ({ id, imgUrl, title, index, active, handleClick }) => (
     <img
       src={imgUrl}
       alt={title}
-      className="absolute w-full h-full object-cover rounded-[24px]"
+      className="absolute w-99% h-99% object-cover rounded-[24px]"
     />
     {active !== id ? (
       <h3 className="font-semibold sm:text-[26px] text-[18px] text-white absolute z-0 lg:bottom-20 lg:rotate-[-90deg] lg:origin-[0,0]">
@@ -28,7 +28,7 @@ const Exp = ({ id, imgUrl, title, index, active, handleClick }) => (
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
           <img
-            src="./Ethereum.png"
+            src="./check.png"
             alt="headset"
             className="w-[90%] h-[90%] object-contain"
           />

@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
     id: 'BTC',
-    imgUrl: '/BTC1.jpg',
-    title: '2018-2019 Blockchain & Cryptocurrency',
+    imgUrl: '/reactlogo.png',
+    title: 'Modern UX/UI',
   },
   {
     id: 'Web',
-    imgUrl: './network.jpg',
-    title: '2020- WordPress & Web Fundamentals',
+    imgUrl: './style.png',
+    title: 'Modern Styling',
   },
   {
     id: 'Syntax',
-    imgUrl: './JS.jpg',
-    title: '2021- HTML, CSS & JavaScript Syntax',
+    imgUrl: './js.png',
+    title: 'JavaScript Development',
   },
   {
     id: 'Core',
-    imgUrl: './React.jpg',
-    title: '2022- Solidity Smart Contracts & React UX/UI',
+    imgUrl: './Solidity.png',
+    title: 'Solidity Development',
   },
   {
     id: 'Future',
-    imgUrl: './network1.jpg',
-    title: '2023- Continuing To Build & Learn',
+    imgUrl: './mongo.png',
+    title: 'MongoDB Development',
   },
 ];
 
