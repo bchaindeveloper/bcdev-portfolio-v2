@@ -18,9 +18,6 @@ const Navbar = () => (
       className={`${styles.innerWidth} mx-auto flex justify-between gap-8 flex-wrap`}
     >
       <USA />
-      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        BChainDev
-      </h2>
       <Metamask />
     </div>
   </motion.nav>

@@ -24,12 +24,12 @@ const Developer = () => (
             BChainDev
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Developer
+            Blockchain Developer
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “I am very passionate about Blockchain & Web3 applications and excited for the future of this amazing technology”
+          “I am very passionate about the Blockchain and Cryptocurrency industry and excited for the future of this amazing technology”
         </p>
       </motion.div>
 

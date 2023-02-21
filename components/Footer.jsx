@@ -38,7 +38,7 @@ const Footer = () => (
         <div className="flex items-center justify-between flex-wrap gap-4">
           <a href='https://bchaindeveloper.com/' alt="Portfolio">
           <h4 className="font-extrabold text-[24px] text-white">
-            BChainDev
+            BChainDeveloper Blog
           </h4>
           </a>
           <p className="font-normal text-[14px] text-white opacity-50">

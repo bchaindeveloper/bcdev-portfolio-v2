@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Smart Contracts Built With Solidity, Web3.JS & Web3.PY',
-  'Front End Applications Built With React Frameworks',
-  'Blockhain Tools Like Chainlink, Alchemy, OpenZeppelin, Wallet Intergration and much more',
+  'Front-End Engineer ',
+  'Smart Contract Engineer',
+  'Blockhain Development',
 ];
 
 
