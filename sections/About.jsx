@@ -22,7 +22,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-softwhite">I develop web3 and blockchain  applications. My expertise is in engineering smart contracts and developing user interfaces.</span>
+        <span className="font-extrabold text-softwhite">I develop full-stack web3 blockchain applications.</span>
 
       </motion.p>
 
